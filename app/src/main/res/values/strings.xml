@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BrandNewProject</string>
+    <string name="sales_icon">Sales</string>
+    <string name="plus_icon">Plus</string>
+    <string name="question_icon">Question</string>
+    <string name="heart_icon">Heart</string>
+    <string name="settings_icon">Settings</string>
+    <string name="statistics_icon">Statistics</string>
+    <string name="play_button_description">Load</string>
+</resources>
+
+
+
+
+
